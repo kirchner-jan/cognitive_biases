@@ -1,0 +1,1 @@
+Researcher: "{name} is {name_description} Which is more probable? 1. {name} is {atypical}. 2. Linda is {atypical} and is {typical}."\nSubject: "
